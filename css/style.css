@@ -69,13 +69,13 @@ header{
 .onas1{
 	width: 1300px;
 	height: 834px;
-	background-image:url(file:///C:/klassik/images/onas.gif);
+	background-image:url(/images/onas.gif);
 color: aliceblue;
 }
 .cash1{
 	width: 1300px;
 	height: 1259px;
-	background-image: url(file:///C:/klassik/images/cash.gif);
+	background-image: url(/images/cash.gif);
 }
 .t1,.t2{
 	color: white;
@@ -110,19 +110,19 @@ color: aliceblue;
 	flex-basis: 100%;
 }
 .item-1{
-	background-image: url(C:/klassik/images/1.jpg)  ;
+	background-image: url(/images/1.jpg)  ;
 	background-size: cover;
 }
 .item-2{
-	background-image: url(C:/klassik/images/2.jpg);
+	background-image: url(/images/2.jpg);
 	background-size: cover;
 }
 .item-3{
-	background-image: url(C:/klassik/images/3.jpg);
+	background-image: url(/images/3.jpg);
 	background-size: cover;
 }
 .item-4{
-	background-image: url(C:/klassik/images/4.jpg);
+	background-image: url(/images/4.jpg);
 	background-size: cover;
 }
 .kont1{
